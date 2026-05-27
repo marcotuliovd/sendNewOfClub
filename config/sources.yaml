@@ -1,0 +1,17 @@
+youtube:
+  lookback_hours: 24
+  channels:
+    - handle: "@canaldofrossard"
+      name: "Canal do Frossard"
+    - handle: "@LucasTanaka13"
+      name: "Lucas Tanaka"
+    - handle: "@HgplayTV"
+      name: "Hgplay TV"
+
+twitter:
+  lookback_hours: 24
+  profiles:
+    - username: "Atletico"
+      display_name: "Atlético Mineiro Oficial"
+    - username: "geglobo"
+      display_name: "ge.globo"

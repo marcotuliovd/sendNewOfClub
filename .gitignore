@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+data/state.db
+data/twitter_cookies.json
+logs/
+.DS_Store
